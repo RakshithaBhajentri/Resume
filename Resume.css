@@ -1,0 +1,34 @@
+.header {
+    background-color: #2874A6;
+}
+
+.info {
+    color: #2874A6;
+    padding-bottom: 2px;
+}
+
+.main-container {
+    border: solid;
+    border-width: 2px;
+    border-color: grey;
+    width:80%;
+    height: 100%;
+    font-family: Roboto;
+}
+
+.programming-languages {
+    width: 14px;
+    height: 20px;
+}
+
+.skills {
+    width: 30px;
+    height:30px;
+    border-radius:50px;
+}
+
+.image {
+    width: 160px;
+    height: 180px;
+    border-radius: 100%;
+}
